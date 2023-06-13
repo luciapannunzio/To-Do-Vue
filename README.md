@@ -1,7 +1,85 @@
-# Vue 3 + Vite
+# To-Do-Vue
+![Screenshot from 2023-06-12 18-14-16](https://github.com/luciapannunzio/To-Do-Vue/assets/89199990/568441f6-44c8-465c-ac95-c3bdb2e0c529)
+![Screenshot from 2023-06-12 18-14-54](https://github.com/luciapannunzio/To-Do-Vue/assets/89199990/f97a2cba-001f-4ae8-b827-1157fc4b1a19)
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-## Recommended IDE Setup
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+
+
+
+
+
+
+
+  
+  
+  
+  * * *
+
+
+**Navigation**
+ - About Project
+    - Description
+    - Developed With
+ - Contact
+    - Mail
+    - GitHub  
+    - LinkedIn
+ - Used Tools
+    - Fonts
+    - Design
+    - Icons
+    - Colors
+
+
+* * *
+
+
+**About Project**
+ - Description
+*TODO VUE LIST NOTES* - A webpage using Vue, to create a To Do List Notes.
+
+
+* * *
+
+
+**Developed With**
+ - [x] HTML5
+ - [x] CSS3
+ - [ ] SASS
+ - [ ] SCSS
+ - [x] JavaScript
+ - [ ] React
+ - [x] Vue
+ - [ ] Bootstrap
+ - [x] npm
+ - [ ] Dom
+
+ 
+ * * *
+ 
+ 
+**Contact**
+
+Mail: [luciapannunzio](https://mail.google.com/mail/u/0/#inbox)
+
+GitHub: [luciapannunzio](https://github.com/luciapannunzio/)
+
+LinkedIn: [luciapannunziovanderwedden](https://www.linkedin.com/in/luciapannunziovanderwedden/)
+
+
+* * *
+
+
+**Used Tools**
+- icons
+- npm
+- Google Fonts
+- Visual Studio Code
+
+
+* * *
+
+
+
+Made by Lucia Pannunzio (✿◠‿◠✿)
